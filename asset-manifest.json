@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Saksham28599/gif-creator/static/css/main.99391dec.chunk.css",
+    "main.js": "/Saksham28599/gif-creator/static/js/main.7306932c.chunk.js",
+    "main.js.map": "/Saksham28599/gif-creator/static/js/main.7306932c.chunk.js.map",
+    "runtime-main.js": "/Saksham28599/gif-creator/static/js/runtime-main.25d0a6f8.js",
+    "runtime-main.js.map": "/Saksham28599/gif-creator/static/js/runtime-main.25d0a6f8.js.map",
+    "static/js/2.be59034a.chunk.js": "/Saksham28599/gif-creator/static/js/2.be59034a.chunk.js",
+    "static/js/2.be59034a.chunk.js.map": "/Saksham28599/gif-creator/static/js/2.be59034a.chunk.js.map",
+    "static/js/3.bccc3d1f.chunk.js": "/Saksham28599/gif-creator/static/js/3.bccc3d1f.chunk.js",
+    "static/js/3.bccc3d1f.chunk.js.map": "/Saksham28599/gif-creator/static/js/3.bccc3d1f.chunk.js.map",
+    "index.html": "/Saksham28599/gif-creator/index.html",
+    "precache-manifest.29fd7d64a9a0c1c23e017fa69fc68158.js": "/Saksham28599/gif-creator/precache-manifest.29fd7d64a9a0c1c23e017fa69fc68158.js",
+    "service-worker.js": "/Saksham28599/gif-creator/service-worker.js",
+    "static/css/main.99391dec.chunk.css.map": "/Saksham28599/gif-creator/static/css/main.99391dec.chunk.css.map",
+    "static/js/2.be59034a.chunk.js.LICENSE.txt": "/Saksham28599/gif-creator/static/js/2.be59034a.chunk.js.LICENSE.txt",
+    "static/media/Spinning_Ashoka_Chakra.gif": "/Saksham28599/gif-creator/static/media/Spinning_Ashoka_Chakra.24fba6bd.gif",
+    "static/media/error.gif": "/Saksham28599/gif-creator/static/media/error.77e7977f.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25d0a6f8.js",
+    "static/js/2.be59034a.chunk.js",
+    "static/css/main.99391dec.chunk.css",
+    "static/js/main.7306932c.chunk.js"
+  ]
+}
